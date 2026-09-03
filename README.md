@@ -30,7 +30,7 @@ For example a raw Twitch IRC may look like `@badge-info=;badges=broadcaster/1,no
 
 ![artist badge image](badges/artist/1.png) badge/1
 
-# Other
+## Other
 ![bot badge image](badges/bot/1.png) bot/1
 
 ![broadcaster badge image](badges/broadcaster/1.png) broadcaster/1
