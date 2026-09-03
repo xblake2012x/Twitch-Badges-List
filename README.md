@@ -8,33 +8,33 @@ For example a raw Twitch IRC may look like `@badge-info=;badges=broadcaster/1,no
 ## Streamer Donation
 <img src="Badges/sub-gifter/1.png" width="24" height="24"> sub-gifter/(subs amount)
 
-![bits badge image](Badges/bits/1.png) bits/(bits amount)
+<img src="Badges/bits/1.png" width="24" height="24"> bits/(bits amount)
 
 ## Twitch Subscription
-![turbo badge image](Badges/turbo/1.png) turbo/1
+<img src="Badges/turbo/1.png" width="24" height="24"> turbo/1
 
-![vip badge image](Badges/vip/1.png) turbo/1
+<img src="Badges/vip/1.png" width="24" height="24"> turbo/1
 
 ## Staff, Event, Programs
-![partner badge image](Badges/partner/1.png) partner/1
+<img src="Badges/partner/1.png" width="24" height="24"> partner/1
 
-![staff badge image](Badges/staff/1.png) staff/1
+<img src="Badges/staff/1.png" width="24" height="24"> staff/1
 
-![lead_moderator badge image](Badges/lead_moderator/1.png) lead_moderator/1
+<img src="Badges/lead_moderator/1.png" width="24" height="24"> lead_moderator/1
 
-![moderator badge image](Badges/moderator/1.png) moderator/1
+<img src="Badges/moderator/1.png" width="24" height="24"> moderator/1
 
-![dj badge image](Badges/dj/1.png) dj/1
+<img src="Badges/dj/1.png" width="24" height="24"> dj/1
 
-![ambassador badge image](Badges/ambassador/1.png) ambassador/1
+<img src="Badges/ambassador/1.png" width="24" height="24"> ambassador/1
 
-![artist badge image](Badges/artist/1.png) badge/1
+<img src="Badges/artist/1.png" width="24" height="24"> badge/1
 
 ## Other
-![bot badge image](Badges/bot/1.png) bot/1
+<img src="Badges/bot/1.png" width="24" height="24"> bot/1
 
-![broadcaster badge image](Badges/broadcaster/1.png) broadcaster/1
+<img src="Badges/broadcaster/1.png" width="24" height="24"> broadcaster/1
 
-![no_audio badge image](Badges/no_audio/1.png) no_audio/1
+<img src="Badges/no_audio/1.png" width="24" height="24"> no_audio/1
 
-![no_video badge image](Badges/no_video/1.png) no_video/1
+<img src="Badges/no_video/1.png" width="24" height="24"> no_video/1
