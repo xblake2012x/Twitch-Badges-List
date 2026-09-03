@@ -13,7 +13,7 @@ For example a raw Twitch IRC may look like `@badge-info=;badges=broadcaster/1,no
 ## Twitch Subscription
 <img src="Badges/turbo/1.png" width="24" height="24"> turbo/1
 
-<img src="Badges/vip/1.png" width="24" height="24"> turbo/1
+<img src="Badges/vip/1.png" width="24" height="24"> vip/1
 
 ## Staff, Event, Programs
 <img src="Badges/partner/1.png" width="24" height="24"> partner/1
